@@ -1,0 +1,8 @@
+# Ham veri ve gizli bilgiler asla repoya girmemeli
+ham/
+raw/
+*.parquet
+*.sqlite
+.env
+*token*
+*.key
